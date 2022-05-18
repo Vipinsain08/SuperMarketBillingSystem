@@ -1,2 +1,8 @@
 # SuperMarketBillingSystem
-It is a java project for academic fulfillment.
+
+***This is a java project.***
+
+## Features
+* Fast
+* Reliable
+* Easy to use
